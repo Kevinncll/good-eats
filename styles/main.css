@@ -3,7 +3,8 @@ body {
 	background: #2c3e50;
 }
 nav{
-	position: relative;
+	position: absolute;
+	right:200;
 	margin: 270px auto 0;
 	width: 470px;
 	height: 50px;
